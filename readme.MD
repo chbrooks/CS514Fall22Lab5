@@ -1,5 +1,7 @@
 Lab 5: Huffman coding.
 
+Due 10/31, start of class.
+
 In this lab, you'll work with three different data structures (Priority Queues, HashMaps, and Binary Trees) in order to develop a tool that can generate optimal compression and decompression for a text file.
 
 To submit: Please check this lab back into your GitHib repo by the due date.
